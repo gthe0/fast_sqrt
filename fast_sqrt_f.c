@@ -1,3 +1,12 @@
+/*
+	Author: gtheo
+
+	fast_sqrt_f.c
+
+	This file contains the implementation of the single
+	precision version
+*/
+
 #include <fast_sqrt.h>
 
 float fast_sqrt(float x)

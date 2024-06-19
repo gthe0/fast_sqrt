@@ -1,9 +1,16 @@
-#include <fast_sqrt.h>
+/*
+	Author: gtheo
 
+	fast_sqrt_d.c
+
+	This file contains the implementation of the double
+	precision version
+*/
+
+#include <fast_sqrt.h>
 
 double fast_sqrt_d(double x)
 {
-
 	double y;
 	long long i;
 
